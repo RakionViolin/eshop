@@ -1,0 +1,10 @@
+Ben's Picture,4000.0, images/Keyboard.png
+GPU 3080 Ti,1949.86, images/Keyboard.png
+Keyboard,89.99, images/Keyboard.png
+Microphone,231.18, images/Keyboard.png
+Monitor,325.20, images/Keyboard.png
+Mouse,38.99, images/Keyboard.png
+Speaker,109.31, images/Keyboard.png
+USB HD camera,205.49, images/Keyboard.png
+
+

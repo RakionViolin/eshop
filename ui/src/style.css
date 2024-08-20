@@ -1,0 +1,65 @@
+:root {
+    --cn-red: #e4002b;
+    --cn-brown: #992a25;
+    --cn-orange: #ee6146;
+}
+
+.navbar-red, .navbar-brand, .nav-link {
+    background-color: var(--cn-red);
+    color: white;
+}
+
+a:hover.nav-link, a:focus.nav-link {
+    background-color: white;
+}
+
+.cart {
+    position: relative;
+    display: block;
+    width: 36px;
+    height: auto;
+    font-size: 22px;
+    overflow: hidden;
+    .count {
+      position: absolute;
+      top: 0;
+      right: 0;
+      z-index: 2;
+      font-size: 11px;
+        martig-top: 2px;
+        margin-botton: 100%;
+        leter-spacing: 
+    }
+}
+
+.form-card input, .form-card text area{
+    padding: 10px, 8px, 10px, 8px;
+    border: none;
+    border-radius: 0px;
+    border: 1px solid lightgrey;
+    margin-top: 2px;
+    margin-bottom:25px;
+    color: #2C3E50;
+    font-family: montserrat;
+    font-size: 16px;
+    letter-spacing :1px;
+}
+
+.radio-group{
+    position: relative;
+    margin-bottom: 20px
+}
+
+.radio {
+    display: inline-block;
+    width: 200;
+    height: 60;
+    background: lightblue;
+    border: 2px solid lightgrey;
+    cursor: pointer;
+    margin: 8px 20px 8px 0px;
+}
+
+.radio:hover{
+    box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.2);
+}
